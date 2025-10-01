@@ -1,0 +1,11 @@
+From,To,Distance_km
+Depot,Hospital_A,12
+Depot,Hospital_B,20
+Depot,Industry_X,18
+Depot,Industry_Y,25
+Hospital_A,Hospital_B,10
+Hospital_A,Industry_X,15
+Hospital_A,Industry_Y,22
+Hospital_B,Industry_X,8
+Hospital_B,Industry_Y,12
+Industry_X,Industry_Y,9
