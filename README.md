@@ -1,5 +1,5 @@
 
-# 🚀 Helium Supply Chain Optimization  
+#  Helium Supply Chain Optimization  
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)  
 ![License](https://img.shields.io/badge/license-MIT-green.svg)  
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Overview  
+##  Overview  
 
 This project applies **industrial engineering and logistics optimization methods** to the real-world case of **HELIOS (Algeria)**, one of the world’s major helium producers.  
 
@@ -20,7 +20,7 @@ The goal is to **optimize the supply chain of helium exports from Algeria to Eur
 
 ---
 
-## 📂 Project Structure  
+##  Project Structure  
 
 ```
 
@@ -41,7 +41,7 @@ helium-supply-chain-optimization/
 
 ---
 
-## ⚙️ Methods  
+##  Methods  
 
 ### 1. Port Selection  
 - Multi-criteria decision analysis.  
@@ -59,7 +59,7 @@ helium-supply-chain-optimization/
 
 ---
 
-## 📊 Results (Example Simulation)  
+##  Results (Example Simulation)  
 
 - **Optimal Port**: Oran (best balance of distance & infrastructure).  
 - **Forecast (2021–2025)**: +35% increase in helium shipments (~550 truckloads/year by 2025).  
@@ -67,7 +67,7 @@ helium-supply-chain-optimization/
 
 ---
 
-## 🔧 Installation  
+##  Installation  
 
 ```bash
 git clone https://github.com/username/helium-supply-chain-optimization.git
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run AHP + TOPSIS for port selection:
 
@@ -100,7 +100,7 @@ python src/tsp_solver.py --clients data/clients.csv
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 * Port ranking chart (AHP/TOPSIS scores).
 * Forecast curves (2021–2025).
@@ -108,13 +108,13 @@ python src/tsp_solver.py --clients data/clients.csv
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙌 Contributions
+##  Contributions
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
