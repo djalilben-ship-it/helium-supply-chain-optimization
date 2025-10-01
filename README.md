@@ -100,13 +100,21 @@ python src/tsp_solver.py --clients data/clients.csv
 
 ---
 
-##  Visualizations
 
-* Port ranking chart (AHP/TOPSIS scores).
-* Forecast curves (2021–2025).
-* Optimized delivery route maps.
 
----
+## Visuals
+
+Here are some screenshots and visualizations from the Helium Supply Chain Optimization project:
+
+### Problem Visualization
+![Problem Visualization](images/prblm-voyag-comerc.png)
+
+### Mathematical Model / Module
+![Mathematical Model](images/math-module.png)
+
+### Client Interface / Dashboard
+![Client Interface](images/client.png)
+
 
 ##  License
 
